@@ -13,6 +13,7 @@ import SettingsApplicationsIcon from '@mui/icons-material/SettingsApplications';
 import AccountCircleIcon from '@mui/icons-material/AccountCircle';
 import ExitToAppIcon from '@mui/icons-material/ExitToApp';
 import logo from "./logo.png"
+import AutoStoriesIcon from '@mui/icons-material/AutoStories';
 const Sidebar = () => {
   return (
 
@@ -46,7 +47,7 @@ const Sidebar = () => {
                 <span>Ongoing courses</span>
             </li>
             <li>
-                < LocalShippingIcon className='icon'/>
+                < AutoStoriesIcon className='icon'/>
                 <span>Completede courses</span>
             </li>
 
