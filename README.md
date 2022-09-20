@@ -2,7 +2,7 @@
 # Project Title
 PatsiTech SDT Learning PLatform
 # Project vision
-PatsiTech SDT  Learning Platform is a product of PatsiTech Ltd company that helps the clients to apply for training, to access learning materials, to track their progress, to access program related information, to collaborate among themselves and interact with their trainers. 
+PatsiTech SDT  Learning Platform is a product of PatsiTech Ltd company that helps the clients to apply for training, access learning materials, track their progress, access program related information,  collaborate among themselves and interact with their trainers. 
 
 # Project Description
 The platform provides training application form,  learning materials, chatbot, courses provided, progress bar for respective trainees and announcements.
